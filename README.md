@@ -35,4 +35,4 @@ LinkedIn: [Sakshi K](https://www.linkedin.com/in/sakshi-k-a1818b243)
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshik1712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->> "Code. Create. Deploy. Repeat. | SDE in the Making"
+> "Code. Create. Deploy. Repeat. | SDE in the Making"
