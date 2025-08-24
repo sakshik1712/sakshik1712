@@ -8,10 +8,19 @@ Full-Stack Developer | AI & Computer Vision Enthusiast | Cloud Explorer
 
 ---
 
-## 💻 **Skills**
+## 💻 Skills
 
-### **Programming Languages**:
-Python | SQL | JavaScript
+### Programming Languages  
+Python | SQL | JavaScript  
+
+### Web Development  
+HTML | CSS | React.js | Node.js |
+
+### Databases  
+MongoDB | MySQL  
+
+### Frameworks & Libraries  
+OpenCV | MediaPipe | REST APIs  
 
 ---
 
