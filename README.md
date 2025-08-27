@@ -2,13 +2,13 @@
 
 ---
 
-## **About Me**
+## ** About Me**
 
 Full-Stack Developer | AI & Computer Vision Enthusiast | Cloud Explorer
 
 ---
 
-## **Skills**
+## ** Skills**
 
 Programming Languages: Python | SQL | JavaScript  
 
@@ -20,13 +20,13 @@ Frameworks & Libraries: OpenCV | MediaPipe | REST APIs
 
 ---
 
-## **Career Goal**
+## ** Career Goal**
 
 To grow as a Software Development Engineer (SDE) and craft technology that shapes tomorrow.
 
 ---
 
-## **Let's Connect**
+## ** Let's Connect**
 
 Email: sakshikraju1712@gmail.com
 
