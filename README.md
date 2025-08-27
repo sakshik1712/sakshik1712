@@ -12,7 +12,7 @@ Full-Stack Developer | AI & Computer Vision Enthusiast | Cloud Explorer
 
 Programming Languages: Python | SQL | JavaScript  
 
-Web Development: HTML | CSS | React.js | Node.js |
+Web Development: HTML | CSS | React.js | Node.js
 
 Databases: MongoDB | MySQL  
 
